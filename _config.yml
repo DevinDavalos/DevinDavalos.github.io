@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Devin Davalos # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Aspiring Business Intelligence Analyst with a strong background within Wealth Managment Operations. My background is mainly within Financial service, but I just completed the Business Intelligence Analyst bootcamp with Triple Ten. Looking to use my business backgroud, along with my new technical skills in order to transition my career into Business Intelligence Analyst roles or a consultant position.   
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
