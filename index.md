@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://public.tableau.com/views/Sprint5ProjectReadme/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
